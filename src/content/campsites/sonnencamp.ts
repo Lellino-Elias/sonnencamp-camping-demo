@@ -27,7 +27,7 @@ export const sonnencamp: CampsiteConfig = {
   claim: "Dein sonniger Familienurlaub am Gösselsdorfer See",
   claimEmphasis: "am Gösselsdorfer See",
   intro:
-    "Camping in idyllischer Lage inmitten unberührter Natur — mit kleinem Badesee und Sandstrand direkt am Platz, umgeben von Wiesen und Wäldern in Südkärnten.",
+    "Camping mit eigenem kleinen Badesee und neu angelegtem Sandstrand direkt am Platz — sonnig, familiär und erholsam am Gösselsdorfer See in Südkärnten.",
 
   logo: { src: `${IMG}/logo-sonnencamp.png`, alt: "Sonnencamp am Gösselsdorfer See Logo" },
 
@@ -38,7 +38,7 @@ export const sonnencamp: CampsiteConfig = {
 
   pillars: [
     { title: "Eigener Badesee mit Sandstrand", text: "Ein kleiner Badesee direkt am Platz mit neu angelegtem Sandstrand — der Badeteich steht exklusiv unseren Nächtigungsgästen zur Verfügung.", image: { src: `${IMG}/badesee-baden.webp`, alt: "Kind beim Baden am Badesee mit Steg am Sonnencamp" } },
-    { title: "Inmitten unberührter Natur", text: "Idyllisch zwischen Wiesen und Wäldern gelegen, mit weitem Blick auf die Südkärntner Berge — ruhig, sonnig und naturnah.", image: { src: `${IMG}/badesee-sommer.webp`, alt: "Sommer am Badesee des Sonnencamp mit Sandstrand, Sonnenschirmen und Bergblick" } },
+    { title: "Sonnige Sommertage am See", text: "Sonnenschirme, Sandstrand und ein Sprung ins kühle Nass — genieße sonnige Sommertage am Gösselsdorfer See und lass die Seele baumeln, während die Kinder am Strand spielen.", image: { src: `${IMG}/badesee-sommer.webp`, alt: "Sommer am Badesee des Sonnencamp mit Sandstrand, Sonnenschirmen und Bergblick" } },
     { title: "Ein Paradies für Kinder", text: "Neuer Spielplatz, eine 13 m lange Hüpfburg, Kinderschminken und Lagerfeuer — hier kommt bei den Kleinen keine Langeweile auf.", image: { src: `${IMG}/huepfburg.webp`, alt: "Große aufblasbare Hüpfburg auf der Wiese am Sonnencamp" } },
   ],
 
