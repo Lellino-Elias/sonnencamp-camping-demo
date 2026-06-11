@@ -7,7 +7,7 @@ import type { CampsiteConfig } from "../types";
  *   (alle per Vision geprüft; keine Stock-/Fremdbilder — die regionalen
  *    Freizeit-Fotos der Quelle lagen nicht als Eigenbild vor und entfallen).
  * EHRLICH: Der Platz hat einen EIGENEN kleinen Badesee/Badeteich mit Sandstrand
- * am Platz (nur für Nächtigungsgäste) und nennt sich durchgängig "am
+ * am Platz und nennt sich durchgängig "am
  * Gösselsdorfer See" → "am See" ist belegt. Keine Miet-Mobilheime/Zimmer
  * (Wohnwagen stehen nur zum VERKAUF) → mobilheime-Sektion entfällt. Keine
  * Auszeichnung ausgeschrieben → awards leer. Preise = reale Preisliste 2026.
@@ -37,7 +37,7 @@ export const sonnencamp: CampsiteConfig = {
   },
 
   pillars: [
-    { title: "Eigener Badesee mit Sandstrand", text: "Ein kleiner Badesee direkt am Platz mit neu angelegtem Sandstrand — der Badeteich steht exklusiv unseren Nächtigungsgästen zur Verfügung.", image: { src: `${IMG}/badesee-baden.webp`, alt: "Kind beim Baden am Badesee mit Steg am Sonnencamp" } },
+    { title: "Eigener Badesee mit Sandstrand", text: "Ein kleiner Badesee direkt am Platz mit neu angelegtem Sandstrand — Badespaß für alle Campinggäste direkt vor dem Stellplatz.", image: { src: `${IMG}/badesee-baden.webp`, alt: "Kind beim Baden am Badesee mit Steg am Sonnencamp" } },
     { title: "Sonnige Sommertage am See", text: "Sonnenschirme, Sandstrand und ein Sprung ins kühle Nass — genieße sonnige Sommertage am Gösselsdorfer See und lass die Seele baumeln, während die Kinder am Strand spielen.", image: { src: `${IMG}/badesee-sommer.webp`, alt: "Sommer am Badesee des Sonnencamp mit Sandstrand, Sonnenschirmen und Bergblick" } },
     { title: "Ein Paradies für Kinder", text: "Neuer Spielplatz, eine 13 m lange Hüpfburg, Kinderschminken und Lagerfeuer — hier kommt bei den Kleinen keine Langeweile auf.", image: { src: `${IMG}/huepfburg.webp`, alt: "Große aufblasbare Hüpfburg auf der Wiese am Sonnencamp" } },
   ],
@@ -61,7 +61,7 @@ export const sonnencamp: CampsiteConfig = {
   // Keine eindeutig ausgeschriebene Auszeichnung auf der Quelle → ehrlich leer.
   awards: [],
 
-  saison: { von: "Mitte April", bis: "Ende September" },
+  saison: { von: "Mitte April", bis: "20. September" },
 
   hero: {
     aerial: { src: `${IMG}/hero-badesee-panorama.webp`, alt: "Sonnencamp am Gösselsdorfer See: Stellplätze, gespiegelt im Badesee vor den Südkärntner Bergen" },
@@ -112,7 +112,7 @@ export const sonnencamp: CampsiteConfig = {
       { src: `${IMG}/skateboard.webp`, alt: "Kind beim Skateboarden auf dem Weg am Sonnencamp" },
       { src: `${IMG}/bobbycar.webp`, alt: "Bobby-Car auf der Spielwiese am Sonnencamp" },
       { src: `${IMG}/plaetze-herbst.webp`, alt: "Wohnwagen-Stellplätze mit Vorzelten am Sonnencamp im Herbst" },
-      { src: `${IMG}/spielplatz-kinder.webp`, alt: "Kinder spielen am Spielplatz des Sonnencamp" },
+      { src: `${IMG}/spielplatz-kinder.webp`, alt: "Kinder tanzen beim Abendprogramm am Sonnencamp" },
     ],
   },
 
@@ -141,7 +141,7 @@ export const sonnencamp: CampsiteConfig = {
     telHref: "tel:+4342362168",
     mail: "office@sonnencamp.com",
     adresse: "Seestraße 21 · 9141 Gösselsdorf · Kärnten",
-    coords: { lat: 46.5747, lng: 14.6242 },
+    coords: { lat: 46.574592, lng: 14.624432 },
   },
 
   languages: ["DE"],
