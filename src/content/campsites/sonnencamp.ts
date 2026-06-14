@@ -38,7 +38,7 @@ export const sonnencamp: CampsiteConfig = {
 
   pillars: [
     { title: "Eigener Badesee mit Sandstrand", text: "Ein kleiner Badesee direkt am Platz mit neu angelegtem Sandstrand — Badespaß für alle Campinggäste direkt vor dem Stellplatz.", image: { src: `${IMG}/badesee-baden.webp`, alt: "Kind beim Baden am Badesee mit Steg am Sonnencamp" } },
-    { title: "Sonnige Sommertage am See", text: "Sonnenschirme, Sandstrand und ein Sprung ins kühle Nass — genieße sonnige Sommertage am Gösselsdorfer See und lass die Seele baumeln, während die Kinder am Strand spielen.", image: { src: `${IMG}/badesee-sommer.webp`, alt: "Sommer am Badesee des Sonnencamp mit Sandstrand, Sonnenschirmen und Bergblick" } },
+    { title: "Sonnige Sommertage am See", text: "Sonnenschirme, Sandstrand und ein Sprung ins kühle Nass — genieße sonnige Sommertage am Gösselsdorfer See.", image: { src: `${IMG}/badesee-sommer.webp`, alt: "Sommer am Badesee des Sonnencamp mit Sandstrand, Sonnenschirmen und Bergblick" } },
     { title: "Ein Paradies für Kinder", text: "Neuer Spielplatz, eine 13 m lange Hüpfburg, Kinderschminken und Lagerfeuer — hier kommt bei den Kleinen keine Langeweile auf.", image: { src: `${IMG}/huepfburg.webp`, alt: "Große aufblasbare Hüpfburg auf der Wiese am Sonnencamp" } },
   ],
 
@@ -73,10 +73,10 @@ export const sonnencamp: CampsiteConfig = {
       "Ebene Plätze auf gepflegtem Wiesengelände, ein eigener Badesee mit Sandstrand und alles Nötige direkt am Platz: Die Preise verstehen sich pro Nacht inkl. Warmwasser, Duschen und 3 kW/h Strom pro Tag — naturnah, familiär und sonnig in Südkärnten.",
     features: [
       { title: "Sandstrand am eigenen Badesee", text: "Der neu angelegte Sandstrand am Badeteich lädt zum Sonnen, Buddeln und Baden ein — Badespaß direkt vor dem Stellplatz.", image: { src: `${IMG}/sandstrand.webp`, alt: "Sandstrand am Badesee des Sonnencamp mit Sandspielzeug" } },
-      { title: "Ebene Stellplätze in der Natur", text: "Gepflegte Wiesen-Stellplätze für Wohnmobil, Wohnwagen und Zelt — inkl. Warmwasser und Duschen, 13-A-Stromanschluss mit 3 kW/h pro Tag im Preis enthalten.", image: { src: `${IMG}/stellplaetze.webp`, alt: "Ebene Stellplätze mit Wohnwagen und Vorzelten am Sonnencamp" } },
-      { title: "Aktiv-Card Südkärnten gratis", text: "Ab einer Übernachtung gibt es die Aktiv-Card Südkärnten gratis — dazu Radwege rund um den Gösselsdorfer See und Tourenplanung per Komoot direkt ab dem Platz.", image: { src: `${IMG}/ebike-aktivcard.webp`, alt: "E-Bike am Strand des Sonnencamp am Gösselsdorfer See" } },
-      { title: "Camping-Zubehörshop am Platz", text: "Von A wie Abwaschkorb bis Z wie Zelt: Unser Zubehörshop am Platz hält alles bereit, was das Camperherz begehrt — mit Zelten von Isabella und Hahn zur Besichtigung.", image: { src: `${IMG}/zubehoershop.webp`, alt: "Gut gefüllte Regale im Camping-Zubehörshop am Sonnencamp" } },
-      { title: "Dauercamper & Saisonplätze", text: "Lust auf einen ganzen Sommer am See? Dauercamper- und Saisonplätze sind nach telefonischer Terminvereinbarung verfügbar — passende Wohnwagen stehen auch zum Verkauf.", image: { src: `${IMG}/dauercamper.webp`, alt: "Dauercamper-Plätze mit Wohnwagen und Hecken am Sonnencamp" } },
+      { title: "Ebene Stellplätze in der Natur", text: "Gepflegte Wiesen-Stellplätze für Wohnmobil, Wohnwagen und Zelt — Warmwasser, Duschen und 3 kW/h Strom pro Tag inklusive.", image: { src: `${IMG}/stellplaetze.webp`, alt: "Ebene Stellplätze mit Wohnwagen und Vorzelten am Sonnencamp" } },
+      { title: "Aktiv-Card Südkärnten gratis", text: "Ab einer Übernachtung gibt es die Aktiv-Card Südkärnten gratis — mit Radwegen rund um den Gösselsdorfer See direkt ab dem Platz.", image: { src: `${IMG}/ebike-aktivcard.webp`, alt: "E-Bike am Strand des Sonnencamp am Gösselsdorfer See" } },
+      { title: "Camping-Zubehörshop am Platz", text: "Von Abwaschkorb bis Zelt: Unser Shop am Platz hält alles bereit, was das Camperherz begehrt — mit Zelten von Isabella und Hahn.", image: { src: `${IMG}/zubehoershop.webp`, alt: "Gut gefüllte Regale im Camping-Zubehörshop am Sonnencamp" } },
+      { title: "Dauercamper & Saisonplätze", text: "Dauercamper- und Saisonplätze sind nach telefonischer Terminvereinbarung verfügbar — passende Wohnwagen stehen zum Verkauf.", image: { src: `${IMG}/dauercamper.webp`, alt: "Dauercamper-Plätze mit Wohnwagen und Hecken am Sonnencamp" } },
     ],
   },
 
