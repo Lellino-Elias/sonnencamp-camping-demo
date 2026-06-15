@@ -64,7 +64,7 @@ export const sonnencamp: CampsiteConfig = {
   saison: { von: "Mitte April", bis: "20. September" },
 
   hero: {
-    aerial: { src: `${IMG}/hero-badesee-panorama.webp`, alt: "Sonnencamp am Gösselsdorfer See: Stellplätze, gespiegelt im Badesee vor den Südkärntner Bergen" },
+    aerial: { src: `${IMG}/hero-luftbild-campsite.webp`, alt: "Luftbild des Sonnencamp am Gösselsdorfer See: Sandstrand, Badesee und vollbesetzte Stellplätze im Sommer" },
   },
 
   camping: {
@@ -111,8 +111,9 @@ export const sonnencamp: CampsiteConfig = {
       { src: `${IMG}/gokart.webp`, alt: "Tretauto vor dem Spielplatz am Sonnencamp" },
       { src: `${IMG}/skateboard.webp`, alt: "Kind beim Skateboarden auf dem Weg am Sonnencamp" },
       { src: `${IMG}/bobbycar.webp`, alt: "Bobby-Car auf der Spielwiese am Sonnencamp" },
-      { src: `${IMG}/plaetze-herbst.webp`, alt: "Wohnwagen-Stellplätze mit Vorzelten am Sonnencamp im Herbst" },
+      { src: `${IMG}/galerie-hunde-am-see.webp`, alt: "Hunde spielen im Bachlauf am Gösselsdorfer See neben dem Sonnencamp" },
       { src: `${IMG}/spielplatz-kinder.webp`, alt: "Kinder tanzen beim Abendprogramm am Sonnencamp" },
+      { src: `${IMG}/galerie-abendprogramm-maskottchen.webp`, alt: "Das Sonnencamp-Maskottchen beim Abendprogramm mit Kindern und Familien" },
     ],
   },
 
